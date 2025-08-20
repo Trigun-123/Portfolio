@@ -20,7 +20,8 @@ import codingsamuraiLogo from './assets/company_logo/codingsamurai_logo.png';
 
 import pesLogo from './assets/education_logo/pes_logo.png';
 import jnanasudhaLogo from './assets/education_logo/jnanasudha_logo.png';
-import highschoolLogo from './assets/education_logo/highschool_logo';
+import highSchoolLogo from './assets/education_logo/highschool_logo.png';
+
 
 import quickchat from './assets/work_logo/quickchat.png';
 import quickcart from './assets/work_logo/quickcart.png';
@@ -105,7 +106,7 @@ export const SkillsInfo = [
     {
       id: 2,
       school: "Government HighSchool, Bailur",
-      img: highschoolLogo,
+      img: highSchoolLogo,
       date: "2021",
       grade: "98.72%",
       desc: "I completed my Class 10 education from Government High School, Bailur, under the Karnataka State board, with a focus on Science and Mathematics.",
