@@ -38,7 +38,7 @@ const About = () => {
             />
           </h3>
           {/* Resume Button */}
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1_H1AS9KqCzQPdhlNtBvCSTjsWhm_C_9Z/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
@@ -49,7 +49,7 @@ const About = () => {
             }}
           >
             DOWNLOAD CV
-          </a>
+          </a> */}
           
         </div>
         {/* Right Side */}
