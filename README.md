@@ -3,12 +3,6 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 🚀 **Live Demo**: [Click here](https://portfolio-alpha-three-90.vercel.app/)
 
-
-## 🛠️ Tech Stack
-
-- **React.js**
-- **Tailwind CSS**
-
   
 ## ✨ Features
 - Responsive design for all screen sizes 📱💻
@@ -16,3 +10,9 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 - Clean and modular React components 🧩
 - Easy to customize with Tailwind utility classes 🎯
 - Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+
+
+## 🛠️ Tech Stack
+- **React.js**
+- **Tailwind CSS**
+
