@@ -25,6 +25,7 @@ import highSchoolLogo from './assets/education_logo/highschool_logo.png';
 
 import quickchat from './assets/work_logo/quickchat.png';
 import quickcart from './assets/work_logo/quickcart.png';
+import welth from './assets/work_logo/welth.png'
 
 export const SkillsInfo = [
   {
@@ -134,5 +135,15 @@ export const SkillsInfo = [
       tags: ["React JS", "Next JS", "MongoDB"],
       github: "https://github.com/Trigun-123/QuickCart",
       webapp: "https://quick-cart-one-omega.vercel.app/",
+    },
+    {
+      id: 2,
+      title: "Welth",
+      description:
+        "Developed an AI-powered finance platform with Next.js, Supabase, Prisma, and Tailwind. Implemented advanced analytics, smart receipt scanning, budget planning, and real-time multi-currency support with secure multi-account management.",
+      image: welth,
+      tags: ["React JS", "Next JS", "Supabase", "Shadcn UI"],
+      github: "https://github.com/Trigun-123/welth",
+      webapp: "https://welth-chi-ebon.vercel.app/",
     },
   ];  
