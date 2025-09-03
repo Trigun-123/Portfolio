@@ -23,9 +23,9 @@ import jnanasudhaLogo from './assets/education_logo/jnanasudha_logo.png';
 import highSchoolLogo from './assets/education_logo/highschool_logo.png';
 
 
+import welth from './assets/work_logo/welth.png'
 import quickchat from './assets/work_logo/quickchat.png';
 import quickcart from './assets/work_logo/quickcart.png';
-import welth from './assets/work_logo/welth.png'
 
 export const SkillsInfo = [
   {
@@ -91,7 +91,7 @@ export const SkillsInfo = [
       img: pesLogo,
       school: "PES University, Bengaluru",
       date: "2023 - 2027",
-      // grade: "7 CGPA",
+      // grade: "6.7 CGPA",
       desc: "I have completed my Bachelor's degree (B.Tech) in Computer Science and Engineering from PES University, Bengaluru. During my time at PES, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at PES University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelor of Technology - B.Tech",
     },
@@ -118,6 +118,16 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
+      title: "Welth",
+      description:
+        "Developed an AI-powered finance platform with Next.js, Supabase, Prisma, and Tailwind. Implemented advanced analytics, smart receipt scanning, budget planning, and real-time multi-currency support with secure multi-account management.",
+      image: welth,
+      tags: ["React JS", "Next JS", "Supabase", "Shadcn UI"],
+      github: "https://github.com/Trigun-123/welth",
+      webapp: "https://welth-chi-ebon.vercel.app/",
+    },
+    {
+      id: 1,
       title: "Quick Chat",
       description:
         "A real-time chat application that enables low-latency messaging with secure authentication, one-on-one conversations, and personalized privacy controls, while delivering a seamless experience through a responsive and intuitive interface.",
@@ -127,7 +137,7 @@ export const SkillsInfo = [
       webapp: "https://full-stack-chat-application-iota.vercel.app/",
     },
     {
-      id: 1,
+      id: 2,
       title: "Quick Cart",
       description:
         "Developed a responsive e-commerce cart system that managed high daily transactions. Enhanced user authentication and session security for easier access. Integrated secure multi-method payments, boosting successful checkouts.",
@@ -135,15 +145,5 @@ export const SkillsInfo = [
       tags: ["React JS", "Next JS", "MongoDB"],
       github: "https://github.com/Trigun-123/QuickCart",
       webapp: "https://quick-cart-one-omega.vercel.app/",
-    },
-    {
-      id: 2,
-      title: "Welth",
-      description:
-        "Developed an AI-powered finance platform with Next.js, Supabase, Prisma, and Tailwind. Implemented advanced analytics, smart receipt scanning, budget planning, and real-time multi-currency support with secure multi-account management.",
-      image: welth,
-      tags: ["React JS", "Next JS", "Supabase", "Shadcn UI"],
-      github: "https://github.com/Trigun-123/welth",
-      webapp: "https://welth-chi-ebon.vercel.app/",
     },
   ];  
