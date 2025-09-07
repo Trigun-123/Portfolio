@@ -74,7 +74,7 @@ export const SkillsInfo = [
       img: codingsamuraiLogo,
       role: "Web-development Intern",
       company: "Coding Samurai",
-      date: "September 2021 - August 2022",
+      date: "July 2025 - August 2025",
       desc: "Worked as a Web-development Intern, developed and deployed a feature-rich real-time chat application, Quick Chat, using React.js, Next.js, Node.js, Express.js, MongoDB, and Socket.io, supporting 100+ concurrent users. Engineered real-time, low-latency messaging with delivery times under 100 ms using efficient WebSocket protocols.",
       skills: [
         "React JS",
