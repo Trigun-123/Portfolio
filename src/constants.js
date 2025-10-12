@@ -92,7 +92,7 @@ export const SkillsInfo = [
       school: "PES University, Bengaluru",
       date: "2023 - 2027",
       // grade: "6.7 CGPA",
-      desc: "I have completed my Bachelor's degree (B.Tech) in Computer Science and Engineering from PES University, Bengaluru. During my time at PES, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at PES University has been instrumental in shaping my technical abilities and professional growth.",
+      desc: "I am currently pursuing my Bachelor's degree (B.Tech) in Computer Science and Engineering from PES University, Bengaluru. My coursework includes Data Structures, Algorithms, Database Systems, Web Development, and Software Engineering. I actively participate in coding competitions and workshops, which have strengthened my technical and problem-solving skills. My journey at PES University continues to enhance my knowledge, creativity, and passion for technology.",
       degree: "Bachelor of Technology - B.Tech",
     },
     {
