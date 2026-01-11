@@ -23,7 +23,7 @@ import jnanasudhaLogo from './assets/education_logo/jnanasudha_logo.png';
 import highSchoolLogo from './assets/education_logo/highschool_logo.png';
 
 
-import welth from './assets/work_logo/welth.png'
+import welth from './assets/work_logo/welth.png';
 import quickchat from './assets/work_logo/quickchat.png';
 import quickcart from './assets/work_logo/quickcart.png';
 import thumblify from './assets/work_logo/thumblify.png';
