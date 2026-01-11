@@ -26,6 +26,7 @@ import highSchoolLogo from './assets/education_logo/highschool_logo.png';
 import welth from './assets/work_logo/welth.png'
 import quickchat from './assets/work_logo/quickchat.png';
 import quickcart from './assets/work_logo/quickcart.png';
+import thumblify from './assets/work_logo/thumblify.png';
 
 export const SkillsInfo = [
   {
@@ -91,7 +92,7 @@ export const SkillsInfo = [
       img: pesLogo,
       school: "PES University, Bengaluru",
       date: "2023 - 2027",
-      // grade: "6.7 CGPA",
+      // grade: "7 CGPA",
       desc: "I am currently pursuing my Bachelor's degree (B.Tech) in Computer Science and Engineering at PES University, Bengaluru. My coursework includes Data Structures, Algorithms, Database Systems, Web Development, and Software Engineering. I actively participate in coding competitions and workshops, which have strengthened my technical and problem-solving skills. My journey at PES University continues to enhance my knowledge, creativity, and passion for technology.",
       degree: "Bachelor of Technology - B.Tech",
     },
@@ -118,19 +119,19 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Welth",
+      title: "Thumblify",
       description:
-        "Developed an AI-powered finance platform with Next.js, Supabase, Prisma, and Tailwind. Implemented advanced analytics, smart receipt scanning, budget planning, and real-time multi-currency support with secure multi-account management.",
-      image: welth,
-      tags: ["React JS", "Next JS", "Supabase", "Shadcn UI"],
-      github: "https://github.com/Trigun-123/welth",
-      webapp: "https://welth-chi-ebon.vercel.app/",
+        "Developed an AI-powered YouTube thumbnail generation platform using the Google Gemini API, enabling automated, scalable thumbnail creation with optimized APIs, secure key handling and efficient backend processing.",
+      image: thumblify,
+      tags: ["React JS", "Node JS", "Express JS", "MongoDB"],
+      github: "https://github.com/Trigun-123/Thumblify",
+      webapp: "https://thumblify-tau.vercel.app/",
     },
     {
       id: 1,
       title: "Quick Chat",
       description:
-        "A real-time chat application that enables low-latency messaging with secure authentication, one-on-one conversations, and personalized privacy controls, while delivering a seamless experience through a responsive and intuitive interface.",
+        "A real-time chat application that enables low-latency messaging with secure authentication, one-on-one conversations and personalized privacy controls, while delivering a seamless experience through a responsive and intuitive interface.",
       image: quickchat,
       tags: ["React JS", "Node JS", "Express JS", "MongoDB"],
       github: "https://github.com/Trigun-123/FullStackChatApplication",
@@ -138,6 +139,16 @@ export const SkillsInfo = [
     },
     {
       id: 2,
+      title: "Welth",
+      description:
+        "Developed an AI-powered finance platform featuring advanced analytics, smart receipt scanning, budget planning and real-time multi-currency support with secure multi-account management.",
+      image: welth,
+      tags: ["React JS", "Next JS", "Supabase", "Shadcn UI"],
+      github: "https://github.com/Trigun-123/welth",
+      webapp: "https://welth-chi-ebon.vercel.app/",
+    },
+    {
+      id: 3,
       title: "Quick Cart",
       description:
         "Developed a responsive e-commerce cart system that managed high daily transactions. Enhanced user authentication and session security for easier access. Integrated secure multi-method payments, boosting successful checkouts.",
